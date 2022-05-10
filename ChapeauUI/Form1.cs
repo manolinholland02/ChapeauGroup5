@@ -15,7 +15,6 @@ namespace ChapeauUI
         public Form1()
         {
             InitializeComponent();
-            MessageBox.Show("Da");
         }
 
     }
