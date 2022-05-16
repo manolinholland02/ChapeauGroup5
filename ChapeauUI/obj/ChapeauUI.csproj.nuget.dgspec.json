@@ -1,24 +1,128 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manol\\source\\repos\\ChapeauGroup5\\ChapeauGroup5\\ChapeauUI\\ChapeauUI.csproj": {}
+    "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauUI\\ChapeauUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manol\\source\\repos\\ChapeauGroup5\\ChapeauGroup5\\ChapeauUI\\ChapeauUI.csproj": {
+    "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauDAL\\ChapeauDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manol\\source\\repos\\ChapeauGroup5\\ChapeauGroup5\\ChapeauUI\\ChapeauUI.csproj",
-        "projectName": "ChapeauUI",
-        "projectPath": "C:\\Users\\manol\\source\\repos\\ChapeauGroup5\\ChapeauGroup5\\ChapeauUI\\ChapeauUI.csproj",
-        "packagesPath": "C:\\Users\\manol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manol\\source\\repos\\ChapeauGroup5\\ChapeauGroup5\\ChapeauUI\\obj\\",
+        "projectUniqueName": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauDAL\\ChapeauDAL.csproj",
+        "projectName": "ChapeauDAL",
+        "projectPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauDAL\\ChapeauDAL.csproj",
+        "packagesPath": "C:\\Users\\miede\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauDAL\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\manol\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\miede\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauModel\\ChapeauModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauModel\\ChapeauModel.csproj",
+        "projectName": "ChapeauModel",
+        "projectPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauModel\\ChapeauModel.csproj",
+        "packagesPath": "C:\\Users\\miede\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\miede\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauUI\\ChapeauUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauUI\\ChapeauUI.csproj",
+        "projectName": "ChapeauUI",
+        "projectPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauUI\\ChapeauUI.csproj",
+        "packagesPath": "C:\\Users\\miede\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\miede\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,7 +135,14 @@
         "frameworks": {
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauDAL\\ChapeauDAL.csproj": {
+                "projectPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauDAL\\ChapeauDAL.csproj"
+              },
+              "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauModel\\ChapeauModel.csproj": {
+                "projectPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauModel\\ChapeauModel.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -61,7 +172,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
