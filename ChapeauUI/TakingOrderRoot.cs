@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ChapeauUI
 {
-    public partial class Form2 : Form
+    public partial class TakingOrderRoot : Form
     {
-        public Form2()
+        public TakingOrderRoot()
         {
             InitializeComponent();
         }
