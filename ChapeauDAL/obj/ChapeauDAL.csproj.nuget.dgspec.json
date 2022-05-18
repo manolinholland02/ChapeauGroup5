@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauDAL\\ChapeauDAL.csproj": {}
+    "C:\\Users\\manol\\source\\repos\\ChapeauGroup5\\ChapeauGroup5\\ChapeauDAL\\ChapeauDAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauDAL\\ChapeauDAL.csproj": {
+    "C:\\Users\\manol\\source\\repos\\ChapeauGroup5\\ChapeauGroup5\\ChapeauDAL\\ChapeauDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauDAL\\ChapeauDAL.csproj",
+        "projectUniqueName": "C:\\Users\\manol\\source\\repos\\ChapeauGroup5\\ChapeauGroup5\\ChapeauDAL\\ChapeauDAL.csproj",
         "projectName": "ChapeauDAL",
-        "projectPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauDAL\\ChapeauDAL.csproj",
-        "packagesPath": "C:\\Users\\miede\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauDAL\\obj\\",
+        "projectPath": "C:\\Users\\manol\\source\\repos\\ChapeauGroup5\\ChapeauGroup5\\ChapeauDAL\\ChapeauDAL.csproj",
+        "packagesPath": "C:\\Users\\manol\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manol\\source\\repos\\ChapeauGroup5\\ChapeauGroup5\\ChapeauDAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\miede\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\manol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
