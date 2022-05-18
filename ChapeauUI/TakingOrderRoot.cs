@@ -16,5 +16,15 @@ namespace ChapeauUI
         {
             InitializeComponent();
         }
+
+        private void LunchMenubtn_Click(object sender, EventArgs e)
+        {
+            // go to TakingOrderMenu form
+        }
+
+        private void Backbtn_Click(object sender, EventArgs e)
+        {
+            //back to table view
+        }
     }
 }

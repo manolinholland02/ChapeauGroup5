@@ -29,12 +29,33 @@ namespace ChapeauUI
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.Backbtn = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // Backbtn
+            // 
+            this.Backbtn.Location = new System.Drawing.Point(12, 659);
+            this.Backbtn.Name = "Backbtn";
+            this.Backbtn.Size = new System.Drawing.Size(145, 42);
+            this.Backbtn.TabIndex = 6;
+            this.Backbtn.Text = "Back";
+            this.Backbtn.UseVisualStyleBackColor = true;
+            this.Backbtn.Click += new System.EventHandler(this.Backbtn_Click);
+            // 
+            // TakingOrderOrderView
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(529, 713);
+            this.Controls.Add(this.Backbtn);
+            this.Name = "TakingOrderOrderView";
             this.Text = "TakingOrderOrderView";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button Backbtn;
     }
 }

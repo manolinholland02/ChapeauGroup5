@@ -16,5 +16,15 @@ namespace ChapeauUI
         {
             InitializeComponent();
         }
+
+        private void Backbtn_Click(object sender, EventArgs e)
+        {
+            //back to orderroot
+        }
+
+        private void MenuEntreesListView_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
