@@ -43,19 +43,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\miede\\.nuget\\packages\\": {}
+    "C:\\Users\\sally\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauUI\\ChapeauUI.csproj",
+      "projectUniqueName": "C:\\Users\\sally\\Desktop\\School\\IT1.4 chapeau project\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5\\ChapeauUI\\ChapeauUI.csproj",
       "projectName": "ChapeauUI",
-      "projectPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauUI\\ChapeauUI.csproj",
-      "packagesPath": "C:\\Users\\miede\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauUI\\obj\\",
+      "projectPath": "C:\\Users\\sally\\Desktop\\School\\IT1.4 chapeau project\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5\\ChapeauUI\\ChapeauUI.csproj",
+      "packagesPath": "C:\\Users\\sally\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sally\\Desktop\\School\\IT1.4 chapeau project\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5\\ChapeauUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\miede\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sally\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -69,11 +69,11 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauDAL\\ChapeauDAL.csproj": {
-              "projectPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauDAL\\ChapeauDAL.csproj"
+            "C:\\Users\\sally\\Desktop\\School\\IT1.4 chapeau project\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5\\ChapeauDAL\\ChapeauDAL.csproj": {
+              "projectPath": "C:\\Users\\sally\\Desktop\\School\\IT1.4 chapeau project\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5\\ChapeauDAL\\ChapeauDAL.csproj"
             },
-            "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauModel\\ChapeauModel.csproj": {
-              "projectPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauModel\\ChapeauModel.csproj"
+            "C:\\Users\\sally\\Desktop\\School\\IT1.4 chapeau project\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5\\ChapeauModel\\ChapeauModel.csproj": {
+              "projectPath": "C:\\Users\\sally\\Desktop\\School\\IT1.4 chapeau project\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5\\ChapeauModel\\ChapeauModel.csproj"
             }
           }
         }
@@ -105,7 +105,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
