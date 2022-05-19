@@ -6,9 +6,4 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ChapeauLogic\ChapeauLogic.csproj" />
-    <ProjectReference Include="..\ChapeauModel\ChapeauModel.csproj" />
-  </ItemGroup>
-
 </Project>

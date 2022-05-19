@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ChapeauDAL
+namespace ChapeauModel
 {
     public enum MenuItemCategory
     {
