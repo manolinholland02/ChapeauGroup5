@@ -4,8 +4,8 @@ using System.Text;
 
 namespace ChapeauModel
 {
-    public enum MenuType
+    public enum EmployeeType
     {
-        dinner, lunch, alcoholic
+        Manager, Waiter, Chef, Bartender
     }
 }
