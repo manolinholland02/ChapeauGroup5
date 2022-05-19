@@ -11,6 +11,7 @@ namespace ChapeauLogic
 {
     public class FeedbackService
     {
+<<<<<<< Updated upstream
         FeedbackDAO feedbackdb;
 
         public FeedbackService()
@@ -21,5 +22,8 @@ namespace ChapeauLogic
         {
             feedbackdb.AddFeedback(feedback);
         }
+=======
+        
+>>>>>>> Stashed changes
     }
 }
