@@ -4,7 +4,8 @@ using System.Text;
 
 namespace ChapeauDAL
 {
-    public class BillDao
+    public enum MenuType
     {
+        dinner, lunch, alcoholic
     }
 }

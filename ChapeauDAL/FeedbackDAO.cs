@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ChapeauDAL
 {
-    public class FeedbackDAO
+    public class FeedbackDao
     {
     }
 }
