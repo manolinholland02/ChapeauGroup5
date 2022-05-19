@@ -1,0 +1,10 @@
+C:\Users\sally\Desktop\School\IT1.4 chapeau project\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5\ChapeauModel\bin\Debug\netcoreapp3.1\ChapeauModel.deps.json
+C:\Users\sally\Desktop\School\IT1.4 chapeau project\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5\ChapeauModel\bin\Debug\netcoreapp3.1\ChapeauModel.dll
+C:\Users\sally\Desktop\School\IT1.4 chapeau project\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5\ChapeauModel\bin\Debug\netcoreapp3.1\ChapeauModel.pdb
+C:\Users\sally\Desktop\School\IT1.4 chapeau project\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5\ChapeauModel\obj\Debug\netcoreapp3.1\ChapeauModel.csproj.AssemblyReference.cache
+C:\Users\sally\Desktop\School\IT1.4 chapeau project\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5\ChapeauModel\obj\Debug\netcoreapp3.1\ChapeauModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sally\Desktop\School\IT1.4 chapeau project\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5\ChapeauModel\obj\Debug\netcoreapp3.1\ChapeauModel.AssemblyInfoInputs.cache
+C:\Users\sally\Desktop\School\IT1.4 chapeau project\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5\ChapeauModel\obj\Debug\netcoreapp3.1\ChapeauModel.AssemblyInfo.cs
+C:\Users\sally\Desktop\School\IT1.4 chapeau project\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5\ChapeauModel\obj\Debug\netcoreapp3.1\ChapeauModel.csproj.CoreCompileInputs.cache
+C:\Users\sally\Desktop\School\IT1.4 chapeau project\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5\ChapeauModel\obj\Debug\netcoreapp3.1\ChapeauModel.dll
+C:\Users\sally\Desktop\School\IT1.4 chapeau project\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5-Chapeau-Sally\ChapeauGroup5\ChapeauModel\obj\Debug\netcoreapp3.1\ChapeauModel.pdb

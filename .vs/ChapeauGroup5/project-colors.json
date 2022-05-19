@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8166dee-398f-473d-9c9f-9a06cd77ed45": {
+      "ProjectGuid": "d8166dee-398f-473d-9c9f-9a06cd77ed45",
+      "DisplayName": "ChapeauUI",
+      "ColorIndex": 0
+    },
+    "f78edfc9-1578-48da-8b9d-62eba89e6a9c": {
+      "ProjectGuid": "f78edfc9-1578-48da-8b9d-62eba89e6a9c",
+      "DisplayName": "ChapeauDAL",
+      "ColorIndex": 1
+    },
+    "f74aacc1-fe48-459e-8bf2-a11b54b9416c": {
+      "ProjectGuid": "f74aacc1-fe48-459e-8bf2-a11b54b9416c",
+      "DisplayName": "ChapeauModel",
+      "ColorIndex": 2
+    },
+    "930b3965-f837-4caf-9285-78317a700252": {
+      "ProjectGuid": "930b3965-f837-4caf-9285-78317a700252",
+      "DisplayName": "ChapeauLogic",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

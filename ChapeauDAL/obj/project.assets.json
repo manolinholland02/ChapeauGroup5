@@ -246,6 +246,8 @@
             "rid": "win"
           }
         }
+<<<<<<< HEAD
+=======
       },
       "ChapeauModel/1.0.0": {
         "type": "project",
@@ -256,6 +258,7 @@
         "runtime": {
           "bin/placeholder/ChapeauModel.dll": {}
         }
+>>>>>>> 8568e1683575d6f53c231608ed3c40b7da1e2191
       }
     }
   },
@@ -742,16 +745,22 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+<<<<<<< HEAD
+=======
     },
     "ChapeauModel/1.0.0": {
       "type": "project",
       "path": "../ChapeauModel/ChapeauModel.csproj",
       "msbuildProject": "../ChapeauModel/ChapeauModel.csproj"
+>>>>>>> 8568e1683575d6f53c231608ed3c40b7da1e2191
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+<<<<<<< HEAD
+=======
       "ChapeauModel >= 1.0.0",
+>>>>>>> 8568e1683575d6f53c231608ed3c40b7da1e2191
       "System.Configuration.ConfigurationManager >= 6.0.0",
       "System.Data.SqlClient >= 4.8.3"
     ]
