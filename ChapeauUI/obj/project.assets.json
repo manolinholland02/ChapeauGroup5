@@ -251,6 +251,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "ChapeauModel": "1.0.0",
           "System.Configuration.ConfigurationManager": "6.0.0",
           "System.Data.SqlClient": "4.8.3"
         },
@@ -259,6 +260,20 @@
         },
         "runtime": {
           "bin/placeholder/ChapeauDAL.dll": {}
+        }
+      },
+      "ChapeauLogic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ChapeauDAL": "1.0.0",
+          "ChapeauModel": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ChapeauLogic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ChapeauLogic.dll": {}
         }
       },
       "ChapeauModel/1.0.0": {
@@ -762,6 +777,11 @@
       "path": "../ChapeauDAL/ChapeauDAL.csproj",
       "msbuildProject": "../ChapeauDAL/ChapeauDAL.csproj"
     },
+    "ChapeauLogic/1.0.0": {
+      "type": "project",
+      "path": "../ChapeauLogic/ChapeauLogic.csproj",
+      "msbuildProject": "../ChapeauLogic/ChapeauLogic.csproj"
+    },
     "ChapeauModel/1.0.0": {
       "type": "project",
       "path": "../ChapeauModel/ChapeauModel.csproj",
@@ -770,7 +790,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
-      "ChapeauDAL >= 1.0.0",
+      "ChapeauLogic >= 1.0.0",
       "ChapeauModel >= 1.0.0"
     ]
   },
@@ -801,8 +821,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauDAL\\ChapeauDAL.csproj": {
-              "projectPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauDAL\\ChapeauDAL.csproj"
+            "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauLogic\\ChapeauLogic.csproj": {
+              "projectPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauLogic\\ChapeauLogic.csproj"
             },
             "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauModel\\ChapeauModel.csproj": {
               "projectPath": "C:\\Users\\miede\\OneDrive\\Desktop\\Chapeau Project\\ChapeauModel\\ChapeauModel.csproj"
