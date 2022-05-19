@@ -246,19 +246,6 @@
             "rid": "win"
           }
         }
-<<<<<<< HEAD
-=======
-      },
-      "ChapeauModel/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/ChapeauModel.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ChapeauModel.dll": {}
-        }
->>>>>>> 8568e1683575d6f53c231608ed3c40b7da1e2191
       }
     }
   },
@@ -745,22 +732,10 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
-<<<<<<< HEAD
-=======
-    },
-    "ChapeauModel/1.0.0": {
-      "type": "project",
-      "path": "../ChapeauModel/ChapeauModel.csproj",
-      "msbuildProject": "../ChapeauModel/ChapeauModel.csproj"
->>>>>>> 8568e1683575d6f53c231608ed3c40b7da1e2191
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-<<<<<<< HEAD
-=======
-      "ChapeauModel >= 1.0.0",
->>>>>>> 8568e1683575d6f53c231608ed3c40b7da1e2191
       "System.Configuration.ConfigurationManager >= 6.0.0",
       "System.Data.SqlClient >= 4.8.3"
     ]
@@ -796,11 +771,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Users\\manol\\source\\repos\\ChapeauGroup5\\ChapeauGroup5\\ChapeauModel\\ChapeauModel.csproj": {
-              "projectPath": "C:\\Users\\manol\\source\\repos\\ChapeauGroup5\\ChapeauGroup5\\ChapeauModel\\ChapeauModel.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
