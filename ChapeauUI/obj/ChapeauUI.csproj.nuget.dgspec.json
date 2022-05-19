@@ -27,11 +27,7 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "C:\\Users\\sally\\Desktop\\School\\IT1.4 chapeau project\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5\\ChapeauModel\\ChapeauModel.csproj": {
-                "projectPath": "C:\\Users\\sally\\Desktop\\School\\IT1.4 chapeau project\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5\\ChapeauModel\\ChapeauModel.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

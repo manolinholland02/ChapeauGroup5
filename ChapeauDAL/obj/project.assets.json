@@ -246,20 +246,6 @@
             "rid": "win"
           }
         }
-      },
-      "ChapeauModel/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "System.Configuration.ConfigurationManager": "6.0.0",
-          "System.Data.SqlClient": "4.8.3"
-        },
-        "compile": {
-          "bin/placeholder/ChapeauModel.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ChapeauModel.dll": {}
-        }
       }
     }
   },
@@ -746,16 +732,10 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "ChapeauModel/1.0.0": {
-      "type": "project",
-      "path": "../ChapeauModel/ChapeauModel.csproj",
-      "msbuildProject": "../ChapeauModel/ChapeauModel.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "ChapeauModel >= 1.0.0",
       "System.Configuration.ConfigurationManager >= 6.0.0",
       "System.Data.SqlClient >= 4.8.3"
     ]
@@ -786,11 +766,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\Users\\sally\\Desktop\\School\\IT1.4 chapeau project\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5\\ChapeauModel\\ChapeauModel.csproj": {
-              "projectPath": "C:\\Users\\sally\\Desktop\\School\\IT1.4 chapeau project\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5\\ChapeauModel\\ChapeauModel.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
