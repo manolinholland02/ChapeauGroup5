@@ -1,27 +1,6 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "DtHYLiJOyi/u/ZrV/6yOIxRa+9BpoWZFiiIitEkEtT1nkFWsLumQ13g2+j/xrcns1YjEuiROuklQ38nKFZxGdg==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\sally\\Desktop\\School\\IT1.4 chapeau project\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5-Chapeau-Sally\\ChapeauGroup5\\ChapeauUI\\ChapeauUI.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\sally\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
-    "C:\\Users\\sally\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
-    "C:\\Users\\sally\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
-    "C:\\Users\\sally\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\sally\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\sally\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
-    "C:\\Users\\sally\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
-    "C:\\Users\\sally\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
-    "C:\\Users\\sally\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
-    "C:\\Users\\sally\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\sally\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
-    "C:\\Users\\sally\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
-    "C:\\Users\\sally\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
-    "C:\\Users\\sally\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
-    "C:\\Users\\sally\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
-=======
-  "dgSpecHash": "69VAp6eJV2qXt6ivFf5+UrLyKwCvxdoCrNgPyF6RWBm87KqHOJSmgNSyTV9resJey66gnuoxChA8Y68dRo6vNw==",
+  "dgSpecHash": "yO4Pm6SSccClpqSQqx4qnIBJ1PaJmakIdJkF9JdzPBYFhSShLPVVyFIAG1/Y3QMHLVcibvnQkgFYVHyzjaHxag==",
   "success": true,
   "projectFilePath": "C:\\Users\\manol\\source\\repos\\ChapeauGroup5\\ChapeauGroup5\\ChapeauUI\\ChapeauUI.csproj",
   "expectedPackageFiles": [
@@ -40,7 +19,6 @@
     "C:\\Users\\manol\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
     "C:\\Users\\manol\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\manol\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
->>>>>>> 8568e1683575d6f53c231608ed3c40b7da1e2191
   ],
   "logs": []
 }

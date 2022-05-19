@@ -247,30 +247,12 @@
           }
         }
       },
-      "ChapeauDAL/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-<<<<<<< HEAD
-=======
-          "ChapeauModel": "1.0.0",
->>>>>>> 8568e1683575d6f53c231608ed3c40b7da1e2191
-          "System.Configuration.ConfigurationManager": "6.0.0",
-          "System.Data.SqlClient": "4.8.3"
-        },
-        "compile": {
-          "bin/placeholder/ChapeauDAL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ChapeauDAL.dll": {}
-        }
-      },
       "ChapeauLogic/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "ChapeauDAL": "1.0.0",
-          "ChapeauModel": "1.0.0"
+          "System.Configuration.ConfigurationManager": "6.0.0",
+          "System.Data.SqlClient": "4.8.3"
         },
         "compile": {
           "bin/placeholder/ChapeauLogic.dll": {}
@@ -779,11 +761,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "ChapeauDAL/1.0.0": {
-      "type": "project",
-      "path": "../ChapeauDAL/ChapeauDAL.csproj",
-      "msbuildProject": "../ChapeauDAL/ChapeauDAL.csproj"
-    },
     "ChapeauLogic/1.0.0": {
       "type": "project",
       "path": "../ChapeauLogic/ChapeauLogic.csproj",
@@ -797,15 +774,8 @@
   },
   "projectFileDependencyGroups": {
     "net5.0-windows7.0": [
-<<<<<<< HEAD
-      "ChapeauDAL >= 1.0.0",
-      "ChapeauModel >= 1.0.0",
-      "System.Configuration.ConfigurationManager >= 6.0.0",
-      "System.Data.SqlClient >= 4.8.3"
-=======
       "ChapeauLogic >= 1.0.0",
       "ChapeauModel >= 1.0.0"
->>>>>>> 8568e1683575d6f53c231608ed3c40b7da1e2191
     ]
   },
   "packageFolders": {
@@ -858,16 +828,6 @@
     "frameworks": {
       "net5.0-windows7.0": {
         "targetAlias": "net5.0-windows",
-        "dependencies": {
-          "System.Configuration.ConfigurationManager": {
-            "target": "Package",
-            "version": "[6.0.0, )"
-          },
-          "System.Data.SqlClient": {
-            "target": "Package",
-            "version": "[4.8.3, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",
